@@ -27,3 +27,5 @@ Since I had listed the lost laptop on the insurance contract in advanced, and th
 I am looking forward to your reply.
 
 Sincerely, Nick.
+
+## Revised Answer:
