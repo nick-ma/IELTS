@@ -21,5 +21,34 @@ Again, I am so sorry about these inconvenience changes, and hope you could atten
 
 Sincerely, Nick.
 
-## Revised Answer:
+## Revised Answer (By Teacher):
 
+Dear Sir or Madam,
+
+I hope you will not be surprised when you receive this letter. As you may know, I have organiazed a business meeting that will be held next week, but there are some changes concerning this meeting.
+
+I am sorry for these changes and the inconvenience that it brings to you. As the original arrangement, this meeting will be held in the biggest multi-functional meeting room of Hilten Hetel, but I just received the call from the manager of the hotel that said the meeting room we booked was damaged by the storm last night. Water came into the roof and all projectors are out of function, futhermore, they cannot be repaired by the date of the meeting.
+
+The hotel manager have rearranged a new place, the Town Meeting Center, for our meeting, and it's about 10 minutes drive away from the hotel. As a compensation, Hilton Hotel will provide a shuttle for our attendees between the hotel and the Town Meeting Center for free if you present your attendee card to the caretaker in advance. The meeting's date and time remains as original. 
+
+Again, I am sorry about the inconvenince and hope you cloud attend this meeting.
+
+Sincerely, Nick.
+
+## Revised Answer (By Tony):
+
+Dear Sir or Madam,
+
+I hope you will not be surprised when you receive this letter. There date of the business meeting, originally held next week, has been rescheduled to a new date.
+
+I'm sorry for these changes and any inconvenience cause. 
+
+I just received the hotel manager's phone that said the meeting center we booked was damaged by storm last night. 
+
+Water came into roof and the projectors are all out of function, and they cannot be fixed before our meeting start date.
+
+The meeting will still be held in the largest multi-functional meeting center at Hllton Hotel.
+
+I would like to apologize once more for any inconvenience caused by this rescheduling.
+
+Sincerely, Nick.

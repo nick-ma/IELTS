@@ -38,7 +38,7 @@ Dear Sir or Madam,
 
 I am writting to you to claim a loss of my belongings.
 
-I recently went to Australia for holiday from 22 June to 29 June, and I had bought a travel insruance from your company which can cover any lost of my valuable belongings, including laptop computers, mobile phones,tablet computers, etc.
+I recently went to Australia for holiday from 22 June to 29 June, and I had bought a travel insruance from your company which can cover any loss of my valuable belongings, including laptop computers, mobile phones, tablet computers, etc.
 
 One of my most expensive items is an Apple MacBook Pro, and I spent $3699 to buy it in an Apple Store last month, it was almost brand new when it was lost.
 
@@ -50,3 +50,18 @@ I am looking forward to your reply.
 
 Sincerely, Nick
 
+## Revised Answer (By Tony):
+
+Dear Sir or Madam,
+
+I am writing to you to claim a loss of my belongings.
+
+I recently went to Australia for holiday from June 22nd to the 29th. I have travel insurance from your company which covers loss of my valuables, including laptop computers, mobile phones, tablet computers, etc. One of my most expensive items is a laptop which brand is Apple and its model is Mac Book Pro, I spent $3699 to buy it in an Apple Store last month, it was almost brand new when was lost. 
+
+Unfortunately, on the morning of June 25th when I went to Sydney Airport by minibus in a hurry, I found my laptop wasn't in my backpack. 
+
+I was not sure where and when it lost. I felt so unhappy, although I called the service hotline of minibus company about this lost, I didn't get any valuable information. Since I listed the lost laptop on the insurance contract in advance, this situation should match the claim rule, therefore, I ask for a full claim amount of my lost computer, which should be $3699.
+
+I am looking forward to your reply.
+
+Sincerely, Nick.
