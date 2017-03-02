@@ -19,7 +19,7 @@ Dear Sir or Madam,
 
 Dear Sir or Madam,
 
-I am writing to you to complain a dishwasher that bought from your store last month. The dishwasher just works for serval days since it has been installed in my kitchen, and now it stops to response any operations. 
+I am writing to you to complain a dishwasher that I bought from your store last month. The dishwasher just works for serval days since it has been installed in my kitchen, and now it stops to response any operations. 
 
 I have called your sales and talked about this problem for a couple of times, but every time they just let me unplug the power and wait for a professional person come to check it out. However, three weeks have passed and still, no one came to solve the problem. As a consequence, during these days, I have to wash all the dirty stuff such as cups, bowls, dishes, forks, knives by hand as I have replaced the old dishwasher with this out of function one. I can't stand for it anymore.
 
