@@ -18,6 +18,17 @@
 
 -------------
 
+## describe one person
+Well, I am going to share a story about one of my [family members / neighbours], [who is my [ uncle ]]. 
+
+### An interesting neighbor（新题）
+### A famous person that you are interested in（新题）
+Well, I am going to share a story about a famous person what I am interesting in. He is my neighbour, who live next door, and he was a professor in the field of piano education. Yes, he can play piano very perfessionaly, and he had held serval concert in Shanghai. 
+
+### A family member made you proud （新题）
+### A family member who has had import influence on you    （新题）
+### The most polite person you know (新题)
+
 ## Two people from the same family
 Please say 
 - What do they look like? 

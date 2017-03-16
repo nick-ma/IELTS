@@ -2,6 +2,17 @@
 
 Coffee and coffee related topics materials
 
+## about drink
+Well, usually, at workday, I drink 3 cups of coffee.
+I'd like to drink a cup of espresso at morning, which can make me feel refreshed and energetic.
+After lunch, a cup of skinny cappuccino can let me work efficiently. 
+And after dinner, I like to enjoy a cup of decaf Americano when I sitting in sofa and reading my favorite books. I'd prefer defac at evening because I won't worry about sleep while I tastes it.  
+a decaf ameriacano lets me enjoy the taste of coffee without making me too excited to sleep.
+
+
+
+## Coffee Machine
+Espresso Coffee Machine
 
 
 ## Kinds of coffee
