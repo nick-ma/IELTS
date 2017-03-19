@@ -26,6 +26,8 @@ Well, I am going to share a story about one of my [family members / neighbours],
 Well, I am going to share a story about a famous person what I am interesting in. He is my neighbour, who live next door, and he was a professor in the field of piano education. Yes, he can play piano very perfessionaly, and he had held serval concert in Shanghai. 
 
 ### A family member made you proud （新题）
+When I see the topic, a sort of people come into my mind, they were all in some extent made my proud. After a little bit think, I decide to introduce my grandfather, although he has passed away 20 years ago, I still clearly remember what he did that made me feel proud.
+It was a code dark winter evening, my grandfather took me from school to home, when we were walking along the street, we suddently heard a scare scream came from darkness nearby. It was a woman's voice said help me, someone robbed my bag, help! We stoped working to see what happend, suddenly a man ran out of a dark corner with a knife in hand, that should be the suspect. Everyone on the street dodged the man except my grandpa. He stand into the suspect's way and order him stop running and drop his knife. The suspect surprised a moment, then shouted at my grandpa, got away old man, or I would kill you. I was scared, but my grandpa not. He just stood there and asked me stay away from him. The robber would never thougth who was the opponent. My grandfather was a soilder, and before he reitred, he was a member of special police team. The result was not surprising, only 5 seconds, the robber was knocked down onto the ground. 
 ### A family member who has had import influence on you    （新题）
 ### The most polite person you know (新题)
 
