@@ -2,13 +2,13 @@ You have recently stayed in a hotel in a large city. The weather was very unusua
 
 Write a letter to the manager of the hotel. In your letter:
 
+- give details of what was wrong
+- explain what you had to do to overcome the problem at the time
+- say what action you would like the manager to take
 
- 
-give details of what was wrong
-explain what you had to do to overcome the problem at the time
-say what action you would like the manager to take
 You should write at least 150 words.
 
 Model Answer 1:
 
 Dear Sir,
+
