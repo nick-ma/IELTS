@@ -6,6 +6,11 @@ Write a letter to the store manager. In the letter:
 - explain why you are dissatisfied.
 - say what you want the manager to do.
 
+## tips of this topic
+- the screen continue splash, 
+- when I return home, the screen totaly turn black, the laptop out of function, then call the your staff, but he just said it's all my fault. I have paid $300 for it but got nothing back. 
+- repired it in 3 days or I ask a full refund  
+
 ## Model Answer 1:
 
 Dear Sir,

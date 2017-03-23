@@ -8,7 +8,7 @@ You should write at least 150 words.
 
 You do NOT need to write your own address.
 
-
+## 给朋友的，非正式的
  
 ## Model Answer 1:
 

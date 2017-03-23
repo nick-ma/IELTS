@@ -1,15 +1,13 @@
 # For the past year, you have been a member of a local club. Now you want to discontinue your membership.
 
 Write a letter to the club secretary. In your letter:
-
-
  
-state what type of membership you have and how you have paid for this.
-give details of how you have benefited from the club.
-explain why you want to leave.
+- state what type of membership you have and how you have paid for this.
+- give details of how you have benefited from the club.
+- explain why you want to leave.
+
 Write at least 150 words.
 
- 
 
 ## Model Answer 1:
 

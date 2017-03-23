@@ -1,4 +1,4 @@
-# You travelled by a long distance bus recently and your suitcase was damaged.
+# *[Complain]* You travelled by a long distance bus recently and your suitcase was damaged.
 
 Write a letter to the bus company. In your letter:
 

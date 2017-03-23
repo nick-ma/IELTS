@@ -1,4 +1,4 @@
-# You travelled by plane last week and your suitcase was lost. You have still heard nothing from the airline company.
+# *[Complain]* You travelled by plane last week and your suitcase was lost. You have still heard nothing from the airline company.
 
 Write to the airline and explain what happened. Describe your suitcase and tell them what was in it. Find out what they are going to do about it.
 

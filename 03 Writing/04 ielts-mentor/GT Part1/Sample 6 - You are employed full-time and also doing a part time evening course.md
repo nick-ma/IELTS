@@ -11,7 +11,7 @@ You do NOT need to write your own address.
 
 Begin your letter as follows:
 
-*Dear …………….*,
+*Dear ___*,
 
 ## Model Answer 1:
 

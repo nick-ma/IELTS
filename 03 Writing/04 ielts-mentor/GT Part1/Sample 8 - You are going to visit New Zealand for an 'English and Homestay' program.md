@@ -9,6 +9,12 @@ Write your first letter to the family. In your letter,
 Write at least 150 words.
 You do NOT need to write any address.
 
+## tips
+- who am I, what I am goint to do, and why I write to you
+- how is the public transportation, bus routes, bus fare, how is the weather cold/hot?, how is the food, according to the program arrangement, the fee include breakfirst and lunch for all the days, they provide supper for extra charge.
+? 
+- I will arrive at New Zealand International Airport at 10 June 1.00 pm, and it is a 1.5 hours drive from airport to your home, so I will arrive at your home by 3.00 pm.  
+
 ## Model Answer 1:
 
 Dear Sir/ Madam,

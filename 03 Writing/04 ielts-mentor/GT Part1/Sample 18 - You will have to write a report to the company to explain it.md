@@ -1,12 +1,10 @@
 # Your car is hired from a company and while you are driving on holiday, you have a small accident. You will have to write a report to the company to explain it.
 
 You need to explain the following:
-
-
  
-» When and where you hired it?
-» Describe how the accident happened?
-» What kind of action did you take after the accident?
+- When and where you hired it?
+- Describe how the accident happened?
+- What kind of action did you take after the accident?
 
 You should write at least 150 words.
 

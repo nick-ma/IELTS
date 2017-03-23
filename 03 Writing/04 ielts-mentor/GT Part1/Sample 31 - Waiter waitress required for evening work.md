@@ -1,4 +1,4 @@
-# You want to apply for the following job. Write a letter to Mr. Moore describing your previous experience and explaining why you would be suitable for the job.
+# *【求职信】*You want to apply for the following job. Write a letter to Mr. Moore describing your previous experience and explaining why you would be suitable for the job.
 
 Waiter/ waitress required for evening work. Some experience would be necessary.
 

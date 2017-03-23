@@ -2,8 +2,6 @@
 
 Write a letter to the manager of the company. In your letter:
 
-
- 
 - explain why you took the job
 - describe the problems that you experienced
 - suggest what could be done about them.
@@ -22,7 +20,7 @@ Firstly, duty staffs at night shift are always inside of the hotel's quarters sl
 
 Secondly, the food items that are supposed to be cooked for the hotel customers were eaten by some of the head staffs. One of the breakfast meals that were not eaten by one of the guests were brought to the staff quarters and ate by the head. I believe this is against the rule of the company.
 
-I think they should be reprimanded so that they should learn their lesson and I look forward to your response regarding this matter.
+I think they should be reprimanded so that they should learn their lesson and **I look forward to your response regarding this matter**.
  
  
 Yours sincerely,

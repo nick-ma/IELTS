@@ -1,14 +1,15 @@
 # You recently visited a place that had a strong impact on you.
 
 Write a letter to a friend about the place. In your letter :
-
-
  
 - explain where the place was and how you got there
 - describe what you saw
 - offer to take your friend there
 
 Write at least 150 words.
+
+## 分析
+写个朋友的信，使用非正式的语气。
 
 ## Model Answer 1:
 

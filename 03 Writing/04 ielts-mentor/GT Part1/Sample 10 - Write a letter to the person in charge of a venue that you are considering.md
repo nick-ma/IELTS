@@ -1,4 +1,4 @@
-# You are organising an executive event for the company you work for.
+# *[inquire]* You are organising an executive event for the company you work for.
  
 Write a letter to the person in charge of a venue that you are considering for the event and ask for detailed information regarding dates, services and costs.
 

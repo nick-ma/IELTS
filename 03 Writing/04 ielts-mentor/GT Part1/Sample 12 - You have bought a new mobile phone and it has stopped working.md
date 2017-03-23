@@ -1,4 +1,4 @@
-# You have bought a new mobile phone and in a few days of purchase, it has stopped working. You've spoken to the company representative a week ago but it has still not been repaired.
+# *[Complain]* You have bought a new mobile phone and in a few days of purchase, it has stopped working. You've spoken to the company representative a week ago but it has still not been repaired.
 
 Write a letter to the company. In your letter
 

@@ -1,4 +1,4 @@
-# You are going to study in a college in the UK next year. You would like to stay in a college Hall of Residence.
+# *【inquire】* You are going to study in a college in the UK next year. You would like to stay in a college Hall of Residence.
 
 Write a letter to the college giving your accommodation requirements. You should outline what your room and food needs are and also ask what alternatives are available if they cannot provide what you want.
 

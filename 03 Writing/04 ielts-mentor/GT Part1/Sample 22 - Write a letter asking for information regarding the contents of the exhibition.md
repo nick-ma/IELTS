@@ -1,16 +1,15 @@
-# As part of a student social survey project, you are organising a group to visit a historical exhibition in a small town. Write a letter asking for information regarding such things as the contents of the exhibition, and the dates of its opening and closing, and if there are any discounts available.
+# As part of a student social survey project, you are organising a group to visit a historical exhibition in a small town. 
+
+Write a letter asking for information regarding such things as the contents of the exhibition, and the dates of its opening and closing, and if there are any discounts available.
 
 
-- You should write at least 150 words.
-- You should spend about 20 minutes on this task.
+You should write at least 150 words.
 
- 
+You should spend about 20 minutes on this task.
  
 ## Model Answer 1:
  
 Dear Sir / Madam,
-
-
  
 I am organising a group of students to pay a visit to the historical exhibition in your town. This visit will be part of our school’s activities to encourage the students to take part in social surveys. Therefore, I would be grateful if you could supply me with the following information.
 

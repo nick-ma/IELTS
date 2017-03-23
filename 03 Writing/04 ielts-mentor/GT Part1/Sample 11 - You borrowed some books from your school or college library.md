@@ -1,9 +1,8 @@
-# You borrowed some books from your school or college library. Unfortunately, you have to go away to visit a sick relative and cannot return the books in time.
+# *[Apologize]* You borrowed some books from your school or college library. Unfortunately, you have to go away to visit a sick relative and cannot return the books in time.
 
 Write a letter to the library. Explain what has happened and tell them what you want to do about it.
 
 
- 
 You should write at least 150 words.
 
 You do NOT need to write your own address.

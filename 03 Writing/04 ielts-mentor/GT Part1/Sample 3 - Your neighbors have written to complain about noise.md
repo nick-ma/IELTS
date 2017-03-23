@@ -1,10 +1,10 @@
-Y# our neighbours have recently written to you to complain about the noise from your house flat.
+# Your neighbours have recently written to you to complain about the noise from your house flat.
 
-Write a letter to your neighbours. In your letter explain the reasons for the noise apologise.
-Describe what action you will take.
+Write a letter to your neighbours. 
 
+- In your letter explain the reasons for the noise apologise.
+- Describe what action you will take.
 
- 
 Write at least 150 words.
 
 You do NOT need to write your own address.

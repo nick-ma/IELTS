@@ -45,7 +45,7 @@ Faithfully yours,
 
 Elizabeth Harley
 
-## Model Answer 3:
+## Model Answer 3 【*】:
 
 Dear Sir/ Madam,
 
